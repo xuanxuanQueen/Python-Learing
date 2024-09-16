@@ -1,7 +1,7 @@
 import sys,os
 
 Pets = ['小狗','一个月','小猫','一年','鹦鹉','半年']
-print(Pets)
+print(Pets[0])
 
 Pets.append('边牧')
 print(Pets)
