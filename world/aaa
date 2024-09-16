@@ -3,3 +3,6 @@ pet["德文猫"]=4
 pet["边牧"]=5
 del pet["斗鱼"]
 print(pet)
+
+for i in pet:
+    print(i)
